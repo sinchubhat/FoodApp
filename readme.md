@@ -1,0 +1,1 @@
+FoodApp is web application which is an implementation of JavaServerPage(JSP) , Java and MySQL Database. Basically designed for a summer project,it works like any other online food order and delivery application.We have also included paytm gateway for payment.
